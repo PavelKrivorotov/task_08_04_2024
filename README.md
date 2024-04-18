@@ -1,3 +1,12 @@
+## Preview
+
+This is the application looks like in the browser after uploading three .txt documents with latin words.
+
+<picture>
+  <img alt="The image of the main application screen with information about the selected document." src="./pictures/application.png">
+</picture>
+
+
 ## Installation
 
 1) Clone this repository:
@@ -25,7 +34,3 @@ If you want to show API - open this adress (Backend)
 ```bash
 http://127.0.0.1:8000
 ```
-
-## Demonstration
-
-*may by added later...*
